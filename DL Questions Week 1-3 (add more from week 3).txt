@@ -1,0 +1,4 @@
+1) What was the main issue with the hyperbolic tangent function as an activation function?
+2) Why can't we always use relu/linear functions?
+3) What sort of output does softmax give?  
+4) What is the main "tool" for computing the gradient in GD?
